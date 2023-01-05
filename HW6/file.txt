@@ -1,0 +1,2 @@
+image2.jpg ./folder_server/image2.jpg
+download.png ./folder_server/download.png

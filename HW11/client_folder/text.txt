@@ -1,0 +1,3 @@
+We first check if the character is alphanumeric using the isalnum method, which returns true if the given character is an alphanumeric value
+ i.e. either lowercase or uppercase alphabets or numbers. Then we check if the character is lowercase, uppercase, or a number using islower, 
+ isupper, and isdigit respectively. Accordingly, conversion is processed. Lastly, the encrypted character is added to the text at its position.
